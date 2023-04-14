@@ -21,7 +21,7 @@ let resumeData = {
       ],
     "aboutme":"Atualmente curso Sistemas de Informação pela Universidade Federal de Sergipe(UFS)",
     "address":"Brasil",
-    "website":"https://alvarosreis.github.io/",
+    "website":"https://alvarosreis.github.io/portfolio/",
     "education":[
       {
         "UniversityName":"Universidade Federal de Sergipe",
